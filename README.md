@@ -8,3 +8,5 @@ Creating webpages for practice from may sites.
 <p>its a JavaScript Project</p>
 <h2>3. <a href="https://github.com/Sai-Chakradhar-Mahendrakar/Tic-Toe-Tie-ReactJS">Tic-Toe-Tie-ReactJS</a></h2>
 <p>its a ReactJS Project</p>
+<h2>4. <a href="https://github.com/Sai-Chakradhar-Mahendrakar/Investment_calcualator_React_Practice">Investment_calcualator_ReactJS</a></h2>
+<p>its a ReactJS Project</p>
