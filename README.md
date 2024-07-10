@@ -12,5 +12,5 @@ Creating webpages for practice from may sites.
 <p>its a ReactJS Project</p>
 <h2>5. <a href="https://github.com/Sai-Chakradhar-Mahendrakar/Shopping-Cart-ReactJS">Shopping_Cart_ReactJS</a></h2>
 <p>its a ReactJS Project</p>
-<h2>5. <a href="https://github.com/Sai-Chakradhar-Mahendrakar/Quiz-Application-using-ReactJS">Quiz_Application_ReactJS</a></h2>
+<h2>6. <a href="https://github.com/Sai-Chakradhar-Mahendrakar/Quiz-Application-using-ReactJS">Quiz_Application_ReactJS</a></h2>
 <p>its a ReactJS Project</p>
