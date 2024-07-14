@@ -6,11 +6,13 @@ Creating webpages for practice from may sites.
 <p>Its a basic HTML CSS Project</p>
 <h2>2. <a href="https://sai-chakradhar-mahendrakar.github.io/Calculator-Practice-2">Calculator-Practice-2</a></h2>
 <p>its a JavaScript Project</p>
-<h2>3. <a href="https://github.com/Sai-Chakradhar-Mahendrakar/Tic-Toe-Tie-ReactJS">Tic-Toe-Tie-ReactJS</a></h2>
+<h2>3. <a href="https://github.com/Sai-Chakradhar-Mahendrakar/Student-details-Web-development-">Student-details-Web-development</a></h2>
+<p>its a Full Stack Web Project (NodeJS, MongoDB, ExpressJS, EJS)</p>
+<h2>4. <a href="https://github.com/Sai-Chakradhar-Mahendrakar/Tic-Toe-Tie-ReactJS">Tic-Toe-Tie-ReactJS</a></h2>
 <p>its a ReactJS Project</p>
-<h2>4. <a href="https://github.com/Sai-Chakradhar-Mahendrakar/Investment_calcualator_React_Practice">Investment_calcualator_ReactJS</a></h2>
+<h2>5. <a href="https://github.com/Sai-Chakradhar-Mahendrakar/Investment_calcualator_React_Practice">Investment_calcualator_ReactJS</a></h2>
 <p>its a ReactJS Project</p>
-<h2>5. <a href="https://github.com/Sai-Chakradhar-Mahendrakar/Shopping-Cart-ReactJS">Shopping_Cart_ReactJS</a></h2>
+<h2>6. <a href="https://github.com/Sai-Chakradhar-Mahendrakar/Shopping-Cart-ReactJS">Shopping_Cart_ReactJS</a></h2>
 <p>its a ReactJS Project</p>
-<h2>6. <a href="https://github.com/Sai-Chakradhar-Mahendrakar/Quiz-Application-using-ReactJS">Quiz_Application_ReactJS</a></h2>
+<h2>7. <a href="https://github.com/Sai-Chakradhar-Mahendrakar/Quiz-Application-using-ReactJS">Quiz_Application_ReactJS</a></h2>
 <p>its a ReactJS Project</p>
